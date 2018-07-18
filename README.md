@@ -1,1 +1,3 @@
 # vsts-test
+
+test build
